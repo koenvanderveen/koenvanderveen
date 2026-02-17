@@ -1,6 +1,6 @@
-### Hi, I'm Koen
+### Koen van der Veen
 
-Building privacy-preserving technology and tools that put people in control of their data.
+AI and software engineer building privacy-preserving technology. 
 
 ---
 
@@ -10,7 +10,7 @@ Building privacy-preserving technology and tools that put people in control of t
 
 🧪 [Private ML](https://github.com/OpenMined/private-ai-resources) - Tutorials and research on private machine learning
 
-🧰 [Toolbox](https://github.com/OpenMined/toolbox) - A tool for finding and requesting access to private datasets
+🧰 [Toolbox](https://github.com/OpenMined/toolbox) - A tool for downloading your data and using it via CLI's
 
 🦑 [pymemri](https://github.com/memri/pymemri) - Python SDK for building plugins on the Memri personal data platform `legacy`
 
@@ -26,7 +26,7 @@ Building privacy-preserving technology and tools that put people in control of t
 
 ### GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=koenvanderveen&show_icons=true&theme=default&hide_border=true&count_private=true" />
+![GitHub Contribution Graph](https://ghchart.rshah.org/koenvanderveen)
 
 ---
 
