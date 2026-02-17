@@ -6,21 +6,21 @@ AI and software engineer building privacy-preserving technology.
 
 ### Projects
 
-🔒 [PySyft](https://github.com/OpenMined/PySyft) ![GitHub stars](https://img.shields.io/github/stars/OpenMined/PySyft?style=flat-square&label=⭐) - Perform data science on data that remains in someone else's server
+🔒 [PySyft](https://github.com/OpenMined/PySyft) ![GitHub stars](https://img.shields.io/github/stars/OpenMined/PySyft?style=social) - Perform data science on data that remains in someone else's server
 
-🧪 [Private ML](https://github.com/koenvanderveen/privateml) ![GitHub stars](https://img.shields.io/github/stars/koenvanderveen/privateml?style=flat-square&label=⭐) - Machine Learning with SPDZ
+🧪 [Private ML](https://github.com/koenvanderveen/privateml) ![GitHub stars](https://img.shields.io/github/stars/koenvanderveen/privateml?style=social) - Machine Learning with SPDZ
 
-🧰 [Toolbox](https://github.com/OpenMined/toolbox) ![GitHub stars](https://img.shields.io/github/stars/OpenMined/toolbox?style=flat-square&label=⭐) - A tool for downloading your data and using it via CLI's
+🧰 [Toolbox](https://github.com/OpenMined/toolbox) ![GitHub stars](https://img.shields.io/github/stars/OpenMined/toolbox?style=social) - A tool for downloading your data and using it via CLI's
 
-🦑 [pymemri](https://github.com/memri/pymemri) ![GitHub stars](https://img.shields.io/github/stars/memri/pymemri?style=flat-square&label=⭐) - Python SDK for building plugins on the Memri personal data platform `legacy`
+🦑 [pymemri](https://github.com/memri/pymemri) ![GitHub stars](https://img.shields.io/github/stars/memri/pymemri?style=social) - Python SDK for building plugins on the Memri personal data platform `legacy`
 
-🗄️ [pod](https://github.com/memri/pod) ![GitHub stars](https://img.shields.io/github/stars/memri/pod?style=flat-square&label=⭐) - The open-source backend for Memri `legacy`
+🗄️ [pod](https://github.com/memri/pod) ![GitHub stars](https://img.shields.io/github/stars/memri/pod?style=social) - The open-source backend for Memri `legacy`
 
-🔌 [pyintegrators](https://github.com/memri/pyintegrators) ![GitHub stars](https://img.shields.io/github/stars/memri/pyintegrators?style=flat-square&label=⭐) - Import, enrich, and act on personal data from Gmail, WhatsApp, and more `legacy`
+🔌 [pyintegrators](https://github.com/memri/pyintegrators) ![GitHub stars](https://img.shields.io/github/stars/memri/pyintegrators?style=social) - Import, enrich, and act on personal data from Gmail, WhatsApp, and more `legacy`
 
-📱 [ios-application](https://github.com/memri/ios-application) ![GitHub stars](https://img.shields.io/github/stars/memri/ios-application?style=flat-square&label=⭐) - The iOS front end of Memri `legacy`
+📱 [ios-application](https://github.com/memri/ios-application) ![GitHub stars](https://img.shields.io/github/stars/memri/ios-application?style=social) - The iOS front end of Memri `legacy`
 
-🌐 [browser-application](https://github.com/memri/browser-application) ![GitHub stars](https://img.shields.io/github/stars/memri/browser-application?style=flat-square&label=⭐) - The browser front end of Memri `legacy`
+🌐 [browser-application](https://github.com/memri/browser-application) ![GitHub stars](https://img.shields.io/github/stars/memri/browser-application?style=social) - The browser front end of Memri `legacy`
 
 ---
 
