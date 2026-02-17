@@ -6,23 +6,23 @@ AI and software engineer building privacy-preserving technology.
 
 ### Projects
 
-🔒 [PySyft](https://github.com/OpenMined/PySyft) <img src="https://img.shields.io/github/stars/OpenMined/PySyft?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - Perform data science on data that remains in someone else's server
+🔒 [PySyft](https://github.com/OpenMined/PySyft) ![stars](https://img.shields.io/github/stars/OpenMined/PySyft?style=plastic&label=⭐&color=yellow) - Perform data science on data that remains in someone else's server
 
-📡 [Syft Client](https://github.com/OpenMined/syft-client) <img src="https://img.shields.io/github/stars/OpenMined/syft-client?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - Peer-to-peer data science and AI via channels your organization already trusts
+📡 [Syft Client](https://github.com/OpenMined/syft-client) ![stars](https://img.shields.io/github/stars/OpenMined/syft-client?style=plastic&label=⭐&color=yellow) - Peer-to-peer data science and AI via channels your organization already trusts
 
-🧪 [Private ML](https://github.com/koenvanderveen/privateml) <img src="https://img.shields.io/github/stars/koenvanderveen/privateml?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - Machine Learning with SPDZ
+🧪 [Private ML](https://github.com/koenvanderveen/privateml) ![stars](https://img.shields.io/github/stars/koenvanderveen/privateml?style=plastic&label=⭐&color=yellow) - Machine Learning with SPDZ
 
-🧰 [Toolbox](https://github.com/OpenMined/toolbox) <img src="https://img.shields.io/github/stars/OpenMined/toolbox?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - A tool for downloading your data and using it via CLI's
+🧰 [Toolbox](https://github.com/OpenMined/toolbox) ![stars](https://img.shields.io/github/stars/OpenMined/toolbox?style=plastic&label=⭐&color=yellow) - A tool for downloading your data and using it via CLI's
 
-🦑 [pymemri](https://github.com/memri/pymemri) <img src="https://img.shields.io/github/stars/memri/pymemri?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - Python SDK for building plugins on the Memri personal data platform `legacy`
+🦑 [pymemri](https://github.com/memri/pymemri) ![stars](https://img.shields.io/github/stars/memri/pymemri?style=plastic&label=⭐&color=yellow) - Python SDK for building plugins on the Memri personal data platform `legacy`
 
-🗄️ [pod](https://github.com/memri/pod) <img src="https://img.shields.io/github/stars/memri/pod?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - The open-source backend for Memri `legacy`
+🗄️ [pod](https://github.com/memri/pod) ![stars](https://img.shields.io/github/stars/memri/pod?style=plastic&label=⭐&color=yellow) - The open-source backend for Memri `legacy`
 
-🔌 [pyintegrators](https://github.com/memri/pyintegrators) <img src="https://img.shields.io/github/stars/memri/pyintegrators?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - Import, enrich, and act on personal data from Gmail, WhatsApp, and more `legacy`
+🔌 [pyintegrators](https://github.com/memri/pyintegrators) ![stars](https://img.shields.io/github/stars/memri/pyintegrators?style=plastic&label=⭐&color=yellow) - Import, enrich, and act on personal data from Gmail, WhatsApp, and more `legacy`
 
-📱 [ios-application](https://github.com/memri/ios-application) <img src="https://img.shields.io/github/stars/memri/ios-application?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - The iOS front end of Memri `legacy`
+📱 [ios-application](https://github.com/memri/ios-application) ![stars](https://img.shields.io/github/stars/memri/ios-application?style=plastic&label=⭐&color=yellow) - The iOS front end of Memri `legacy`
 
-🌐 [browser-application](https://github.com/memri/browser-application) <img src="https://img.shields.io/github/stars/memri/browser-application?style=plastic&amp;label=⭐&amp;color=yellow" height="16" /> - The browser front end of Memri `legacy`
+🌐 [browser-application](https://github.com/memri/browser-application) ![stars](https://img.shields.io/github/stars/memri/browser-application?style=plastic&label=⭐&color=yellow) - The browser front end of Memri `legacy`
 
 ---
 
