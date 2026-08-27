@@ -34,7 +34,7 @@ AI and software engineer building privacy-preserving technology.
 
 ### Writing
 
-**Double Blind Evals** - Resolving the Dual Confidentiality Dilemma in AI Safety Auditing.** [link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf)
+**Double Blind Evals** - Resolving the Dual Confidentiality Dilemma in AI Safety Auditing. [link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf)
 
 **Three Tools for Practical Differential Privacy** - Practical tools for making differentially private ML actually work: sanity checks, adaptive clipping, and large-batch training. [link](https://arxiv.org/abs/1812.02890)
 
