@@ -36,6 +36,8 @@ AI and software engineer building privacy-preserving technology.
 
 **Double Blind Evals** - Resolving the Dual Confidentiality Dilemma in AI Safety Auditing. [link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf)
 
+**Embedded AI evaluations** - How to scale the impact of embedded AI evaluators in pratice. [link](https://openmined.org/blog/scale-embedded-ai-evaluators/) 
+
 **Three Tools for Practical Differential Privacy** - Practical tools for making differentially private ML actually work: sanity checks, adaptive clipping, and large-batch training. [link](https://arxiv.org/abs/1812.02890)
 
 **Syft 0.5: A Platform for Universally Deployable Structured Transparency** - A framework combining privacy-enhancing technologies for universally deployable structured transparency. [link](https://arxiv.org/abs/2104.12385)
